@@ -1,5 +1,5 @@
 # Use an older version of Node.js which might have vulnerabilities
-FROM node:10.16.0
+FROM node:21.0
 
 # Set the working directory
 WORKDIR /app
