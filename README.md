@@ -11,6 +11,6 @@ docker build -t les-vulnerable .
 
 4. Run the Docker container:
 ```bash
-docker run -p 3000:3000 vulnerable-app
+docker run -p 3000:3000 les-vulnerable
 ```
 5. Access the application in your browser at http://localhost:3000.
