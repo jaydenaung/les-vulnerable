@@ -6,7 +6,7 @@
 2. Navigate to that directory in your terminal.
 3. Build the Docker image:
 ```bash
-docker build -t vulnerable-app .
+docker build -t les-vulnerable .
 ```
 
 4. Run the Docker container:
