@@ -3,6 +3,11 @@
     "version": "1.0.0",
     "description": "A web application with vulnerabilities for testing purposes",
     "main": "index.js",
+    "author": {
+      "name": "Jayden Aung",
+      "email": "jaydenaung@protonmail.com",
+      "url": "https://jaydenaung.com"
+    },
     "scripts": {
       "start": "node index.js"
     },
